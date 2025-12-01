@@ -1,0 +1,10 @@
+{
+  "created_date": "2025-07-17T09:38:57.005991",
+  "model_type": "RandomForestClassifier",
+  "n_features": 15,
+  "target_classes": [
+    "SELL (-1)",
+    "HOLD (0)",
+    "BUY (1)"
+  ]
+}

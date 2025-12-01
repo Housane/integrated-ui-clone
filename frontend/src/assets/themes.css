@@ -1,0 +1,45 @@
+:root {
+  /*default is light */
+  --color-background: #f5f5f5;
+  --color-surface: #ffffff;
+  --color-primary: #7bd4ff;
+  --color-primary-hover: #6bc4ef;
+  --color-secondary: #646cff;
+  --color-secondary-hover: #535bf2;
+  --color-success: #28a745;
+  --color-danger: #e74c3c;
+  --color-danger-hover: #c0392b;
+  --color-text-primary: #333333;
+  --color-text-secondary: #666666;
+  --color-border: #dddddd;
+  --color-input-bg: #ffffff;
+  --color-card-shadow: rgba(0, 0, 0, 0.1);
+  
+  /*time taken for transition so not too sudden */
+  --transition-time: 0.3s;
+}
+
+[data-theme="dark"] {
+  --color-background: #1a1a1a;
+  --color-surface: #333333;
+  --color-primary: #5a9cc7;
+  --color-primary-hover: #4a8cb7;
+  --color-secondary: #535bf2;
+  --color-secondary-hover: #4349d8;
+  --color-success: #218838;
+  --color-danger: #c0392b;
+  --color-danger-hover: #9e2a1e;
+  --color-text-primary: #f0f0f0;
+  --color-text-secondary: #aaaaaa;
+  --color-border: #444444;
+  --color-input-bg: #444444;
+  --color-card-shadow: rgba(0, 0, 0, 0.4);
+}
+
+/* need to apply transition effects in the 0.3s */
+* {
+  transition: background-color var(--transition-time), 
+             border-color var(--transition-time),
+             color var(--transition-time),
+             box-shadow var(--transition-time);
+}
