@@ -35,6 +35,6 @@ Backend is gna be running on Django (and Heroku for backend) for data and logic,
 ### User Experience 
 User visits Vercel URL (will be used for frontend), and then the dashboard (powered by vue) will work and calls Heroku (for the backend hosting) for sentiment. Will return data in a JSON file.<br> 
 
-Members: Ooi En Jie, Chan Wen Hui Cheryl 
+Members: Ooi En Jie, Chan Wen Hui Cheryl<br> 
 Special thanks to our mentor, Vaishnav Muralidharan, for patiently guiding us through the entire project. 
 
