@@ -1,3 +1,7 @@
+# This repository was created as part of our NUS Orbital 2025 Project (Apollo 11). 
+This application aims to help users make more informed trading decisions through utilising Technical Analysis, while combining it with Market Sentiment Analysis to advice the users on whether they should Buy/Sell/Hold the stock.<br>
+We used Random Forest Classifier as our prediction algorithm, and MACD, RSI, BB, OBV for our Technical Analysis module to prevent overcomplication.<br> 
+The Frontend of this app is hosted on Vercel, while the Backend of this app is hosted on Heroku.
 
 ### Website URL 
 https://stoonks-integrated-ui.vercel.app/login
@@ -29,7 +33,8 @@ Frontend contains all of the .vue files, which is meant for login ui, displays o
 Backend is gna be running on Django (and Heroku for backend) for data and logic, and its meant for the data fetching, sentiment database and the API logic 
 
 ### User Experience 
-User visits Vercel URL (will be used for frontend), and then the dashboard (powered by vue) will work and calls Heroku (for the backend hosting) for sentiment. Will return data in a JSON file. 
+User visits Vercel URL (will be used for frontend), and then the dashboard (powered by vue) will work and calls Heroku (for the backend hosting) for sentiment. Will return data in a JSON file.<br> 
 
-
+Members: Ooi En Jie, Chan Wen Hui Cheryl 
+Special thanks to our mentor, Vaishnav Muralidharan, for patiently guiding us through the entire project. 
 
