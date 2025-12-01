@@ -31,6 +31,5 @@ Backend is gna be running on Django (and Heroku for backend) for data and logic,
 ### User Experience 
 User visits Vercel URL (will be used for frontend), and then the dashboard (powered by vue) will work and calls Heroku (for the backend hosting) for sentiment. Will return data in a JSON file. 
 
-### Further Note
-While the implementation of a LLM is planned, we will only implement it in MS3. 
+
 
