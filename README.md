@@ -10,7 +10,7 @@ https://stoonks-integrated-ui.vercel.app/login
 
 ## Instructions/User Manual 
 
-### For More Information, please visit our project documentationL https://docs.google.com/document/d/1qSjFYcvqAI-h3niWUJbFe-zl7Blzw9tLPdVAbDsEoVw/edit?usp=sharing
+### For More Information, please visit our project documentation https://docs.google.com/document/d/1qSjFYcvqAI-h3niWUJbFe-zl7Blzw9tLPdVAbDsEoVw/edit?usp=sharing
 
 ### Account Signup/Login 
 Feel free to link your account to signup/login. An example has been shown on the app. Please DO NOT spam the prediction function as there are rate limits on it. 
