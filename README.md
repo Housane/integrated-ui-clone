@@ -1,4 +1,6 @@
 # This repository was created as part of our NUS Orbital 2025 Project (Apollo 11). 
+Note: The final product is deployed. Please send me a DM for the link to access it. This is to ensure that the app runs without needing to impose any rate limits as we are caling free APIs 
+
 This application aims to help users make more informed trading decisions through utilising Technical Analysis, while combining it with Market Sentiment Analysis to advice the users on whether they should Buy/Sell/Hold the stock.<br>
 We used Random Forest Classifier as our prediction algorithm, and MACD, RSI, BB, OBV for our Technical Analysis module to prevent overcomplication.<br> 
 The Frontend of this app is hosted on Vercel, while the Backend of this app is hosted on Heroku.
